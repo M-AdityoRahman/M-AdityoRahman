@@ -64,12 +64,6 @@ I’m currently seeking internship opportunities where I can apply my skills, le
 
 ---
 
-### 🤝 Let's Connect 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([http://www.linkedin.com/in/muhammadadityor])
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[adityorahman18@gmail.com])
-
----
 
 ###
 
@@ -80,3 +74,12 @@ I’m currently seeking internship opportunities where I can apply my skills, le
 </picture>
 
 ###
+
+---
+
+### 🤝 Let's Connect 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([http://www.linkedin.com/in/muhammadadityor])
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[adityorahman18@gmail.com])
+
+
