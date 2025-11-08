@@ -54,16 +54,6 @@ I’m currently seeking internship opportunities where I can apply my skills, le
   </a>
 </div>
 
-<br>
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=M-AdityoRahman&theme=onedark&no-frame=true&no-bg=true" alt="M-AdityoRahman's Trophies" />
-  </a>
-</div>
-
----
-
 
 ###
 
@@ -74,6 +64,14 @@ I’m currently seeking internship opportunities where I can apply my skills, le
 </picture>
 
 ###
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=M-AdityoRahman&theme=onedark&no-frame=true&no-bg=true" alt="M-AdityoRahman's Trophies" />
+  </a>
+</div>
 
 ---
 
